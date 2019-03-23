@@ -1,10 +1,10 @@
 # Csharp-Questions-1
 
 <b>Q:</b> What is a namespace?
-<br>A: A namespace is a keyword that is used to declare a scope that contains a set of objects. These can be used to organize code.
+<br>A namespace is a keyword that is used to declare a scope that contains a set of objects. These can be used to organize code.
 
-Q: What are value types?
-<br>A: A "value" type contains the value of the type. For example, the int type could contain a value of 13. Different variables can contain only specific types of values. Example: int can only contain numbers, char characters, string text.
+<b>Q:</b> What are value types?
+<br>A "value" type contains the value of the type. For example, the int type could contain a value of 13. Different variables can contain only specific types of values. Example: int can only contain numbers, char characters, string text.
 
 Q: What are reference types?
 
@@ -15,7 +15,7 @@ Q: What is the purpose of using statement?
 Q: What are dynamic type variables?
 
 Q: What is the purpose of the is operator?
-
+A
 Q: What are generics and how is using them useful?
 
 Q: What is the scope of a public member of a class?
