@@ -1,7 +1,7 @@
 # Csharp-Questions-1
 
-Q: What is a namespace?
-A: A namespace is a keyword that is used to declare a scope that contains a set of objects. These can be used to organize code.
+<b>Q:</b> What is a namespace?
+<br>A: A namespace is a keyword that is used to declare a scope that contains a set of objects. These can be used to organize code.
 
 Q: What are value types?
 A: 
