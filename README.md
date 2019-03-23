@@ -4,9 +4,10 @@
 <br>A namespace is a keyword that is used to declare a scope that contains a set of objects. These can be used to organize code.
 
 <b>Q:</b> What are value types?
-<br>A "value" type contains the value of the type. For example, the int type could contain a value of 13. Different variables can contain only specific types of values. Example: int can only contain numbers, char characters, string text.
+<br>A "value" type contains the value of the type. For example, the int type could contain a value of 13. Different variables can contain only specific types of values. Example: int can only contain numbers, chars can only contain characters, and strings can only contain text.
 
-Q: What are reference types?
+<b>Q:</b> What are reference types?
+<br>Reference types contain references to objects, hence the name "reference type". 
 
 Q: What is an automatic property and how is it useful?
 
